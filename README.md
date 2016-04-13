@@ -35,6 +35,15 @@ isNull(NAN);      // => false
 ## Related
 
 - [is-nil](https://github.com/bubkoo/is-nil) - Checks if the given value is null or undefined.
-- [is-length](https://github.com/bubkoo/is-length) - Checks if the given value is a valid array-like length.
+- [is-null](https://github.com/bubkoo/is-null) - Checks if the given value is null.
 - [is-window](https://github.com/bubkoo/is-window) - Checks if the given value is a window object.
+- [is-native](https://github.com/bubkoo/is-native) - Checks if the given value is a native function.
 - [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or an array-like object.
+- [is-index](https://github.com/bubkoo/is-index) - Checks if the given value is a valid array-like index.
+- [is-length](https://github.com/bubkoo/is-length) - Checks if the given value is a valid array-like length.
+
+## Contributing
+
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/bubkoo/is-null/issues/new).
