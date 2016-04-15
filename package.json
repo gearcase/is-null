@@ -1,6 +1,6 @@
 {
   "name": "is-null",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if the given value is null.",
   "main": "index.js",
   "scripts": {
@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/is-null.git"
+    "url": "git+https://github.com/gearcase/is-null.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/is-null/issues"
+    "url": "https://github.com/gearcase/is-null/issues"
   },
-  "homepage": "https://github.com/bubkoo/is-null#readme",
+  "homepage": "https://github.com/gearcase/is-null#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
